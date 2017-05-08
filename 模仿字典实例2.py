@@ -1,3 +1,4 @@
+"""
 import os
 os.chdir('D:\Python实验')
 def main():
